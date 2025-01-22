@@ -23,3 +23,6 @@ isolate*.log
 
 # Generated files during tests
 /tests/evaluate-tailwind-functions.test.html
+
+# Elentra
+/dist/tailwind-full.css
